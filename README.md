@@ -30,7 +30,7 @@ $ sudo make install
 ### ...use
 
 ```
-Usage: ./chartsampler OPTION... FILE
+Usage: chartsampler OPTION... FILE
 Print the minimal amount of point cooridinates from FILE needed to produce
 a chart equivalent to the chart produced with all the point coordinates from
 FILE.
